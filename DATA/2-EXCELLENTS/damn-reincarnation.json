@@ -1,0 +1,67 @@
+{
+  "webtoon": {
+    "title": "Damn Reincarnation",
+    "banner_image": "IMAGES/2-EXCELLENTS/damn reincarnation/bannière.png",
+    "cover_image": "IMAGES/2-EXCELLENTS/damn reincarnation/cover.jpg",
+    "details": {
+      "type": "Manhwa",
+      "genre": ["Action",
+	  "Réincarnation",
+	  "Humour"],
+      "status": "En pause",
+      "popularity": "",
+      "number_of_chapters": {
+        "count": 81,
+        "last_updated": "25 Août 2024"
+      }
+    },
+    "reading_sites": [
+      {
+        "name": "Phenixscans",
+        "url": "https://phenixscans.fr/manga/v215016-666-damn-reincarnation-v45815851/",
+        "type": "Scantrad"
+      },
+      {
+        "name": "Piccoma",
+        "url": "https://piccoma.com/fr/product/1067",
+        "type": "Officielle"
+      },
+      {
+        "name": "Roman en ligne",
+        "url": "https://phenixscans.fr/manga/damn-reincarnation-novel/"
+      }
+    ],
+    "synopsis": "Hamel, un guerrier qui partit en voyage avec ses camarades pour anéantir le roi démon, mourut juste avant le combat contre le roi démon. Il se réincarnera en tant que descendant de son compagnon héros, Vermouth. \n\nHamel, se prénomant maintenant Eugène Lionhart, a hérité du sang du grand Vermouth. Grâce à ses connaissances antérieures, il façonne un corps à l’image de la puissance qu’il aura besoin pour essayer de comprendre ce qui a pu arriver après sa mort. Et surtout comprendre pourquoi les humains et les mages coexistent avec les démons. \n\nFace à tant d’interrogations, il emprunte le corps d’Eugène et commence à parcourir le voyage inachevé de sa vie antérieure.",
+    "preview_images": [
+      {
+        "src": "",
+        "alt": "image 1"
+      },
+      {
+        "src": "",
+        "alt": "image 2"
+      },
+      {
+        "src": "",
+        "alt": "image 3"
+      },
+      {
+        "src": "",
+        "alt": "image 4"
+      },
+      {
+        "src": "",
+        "alt": "image 5"
+      },
+      {
+        "src": "",
+        "alt": "image 6"
+      }
+    ],
+    "adaptation": {
+	  "note": "Disponible en ",
+      "format": "papier",
+      "url": "https://booknode.com/damn_reincarnation_03457241"
+    }
+  }
+}

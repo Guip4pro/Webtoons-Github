@@ -1,0 +1,67 @@
+{
+  "webtoon": {
+    "title": "The Return of the Mount Hua Sect",
+    "cover_image": "IMAGES/1-COURONNE/return of the mount hua sect/cover.png",
+    "type": "Manhwa",
+    "genre": [
+      "Action",
+      "Réincarnation",
+      "Arts Martiaux",
+      "Humour"
+    ],
+    "status": "En cours",
+    "popularity": "",
+    "number_of_chapters": {
+      "count": 133,
+      "last_updated": "22 Août 2024"
+    },
+    "reading_sites": [
+      {
+        "name": "Phenixscans",
+        "url": "https://phenixscans.fr/manga/v941635-666-return-of-the-mount-hua-sect/",
+        "type": "Scantrad"
+      },
+      {
+        "name": "Webtoon",
+        "url": "https://www.webtoons.com/fr/fantasy/return-of-the-blossoming-blade/list?title_no=4335",
+        "type": "Officielle"
+      },
+      {
+        "name": "Roman en ligne",
+        "url": "https://phenixscans.fr/manga/v768469-return-of-the-mount-hua-sect-novel-v77458306/"
+      }
+    ],
+    "synopsis": "Cheong Myeong, un maître épéiste inégalé du clan Hwasan, perd ses alliés et sa vie dans une bataille contre le chef suprême des démons, Cheon Ma.\n\nMais quand il ouvre ses yeux, il se retrouve réincarné 100 ans plus tard dans le corps d’un enfant mendiant. Malheureusement, bien qu’il ait conservé sa mémoire, sa force physique n’a rien à voir avec celle de sa vie antérieure et son clan tant renommé par le passé est tombé en ruine.\n\nDécidé de ne pas se soumettre à son état pitoyable, il tente de reprendre les choses en main y compris de retrouver la gloire passée de son clan, Hwasan. Mais sera-t-il à la hauteur pour accomplir sa volonté ?",
+    "preview": [
+      {
+        "src": "",
+        "alt": "image 1"
+      },
+      {
+        "src": "",
+        "alt": "image 2"
+      },
+      {
+        "src": "",
+        "alt": "image 3"
+      },
+      {
+        "src": "",
+        "alt": "image 4"
+      },
+      {
+        "src": "",
+        "alt": "image 5"
+      },
+      {
+        "src": "",
+        "alt": "image 6"
+      }
+    ],
+    "adaptation": {
+	  "note": "Disponible en ",
+      "format": "papier",
+      "url": "https://booknode.com/serie/le-retour-du-clan-hwasan"
+    }
+  }
+}

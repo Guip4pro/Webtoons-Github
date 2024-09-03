@@ -1,0 +1,54 @@
+{
+  "webtoon": {
+    "title": "Demonic Emperor",
+    "banner_image": "IMAGES/2-EXCELLENTS/Demonic Emperor/Bannière.png",
+    "cover_image": "IMAGES/2-EXCELLENTS/Demonic Emperor/Cover Demonic Emperor.png",
+    "details": {
+      "type": "Manhwa",
+      "genre": [
+		"Action",
+		"Arts Martiaux",
+		"Connard",
+		"Réincarnation"],
+      "status": "En cours",
+      "popularity": "",
+      "number_of_chapters": {
+        "count": 100,
+        "last_updated": "25 Août 2024"
+      }
+    },
+    "reading_sites": {
+       "name": "Phenixscans",
+       "url": "https://phenixscans.fr/manga/v123456-demonic-emperor/",
+       "type": "Scantrad"
+      }
+    "synopsis": "Zhuo Yifan était l'Empereur Démon, capable de dominer les cieux et la terre. Après avoir été trahi, il parvient à se réincarner dans le corps d'un serviteur faible. \n\nMalgré ses nouvelles conditions, il décide de retrouver son ancien pouvoir et de prendre sa revanche sur ceux qui l'ont trahi. Dans ce nouveau monde, il devra affronter de nouveaux ennemis et des défis encore plus grands, tout en récupérant ses anciennes forces et en découvrant les mystères de cette nouvelle vie.",
+    "preview_images": [
+      {
+        "src": "",
+        "alt": "image 1"
+      },
+      {
+        "src": "",
+        "alt": "image 2"
+      },
+      {
+        "src": "",
+        "alt": "image 3"
+      },
+      {
+        "src": "",
+        "alt": "image 4"
+      },
+      {
+        "src": "",
+        "alt": "image 5"
+      },
+      {
+        "src": "",
+        "alt": "image 6"
+      }
+    ],
+    "adaptation": ""
+  }
+}

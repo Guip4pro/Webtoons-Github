@@ -1,0 +1,65 @@
+{
+  "webtoon": {
+    "title": "",
+    "banner_image": "",
+    "cover_image": "",
+    "details": {
+      "type": "",
+      "genre": ["",
+	  "",
+	  ""],
+      "status": "",
+      "popularity": "",
+      "number_of_chapters": {
+        "count": ,
+        "last_updated": ""
+      }
+    },
+    "reading_sites": [
+      {
+        "name": "",
+        "url": "",
+        "type": ""
+      },
+      {
+        "name": "",
+        "url": "",
+        "type": ""
+      },
+      {
+        "name": "",
+        "url": ""
+      }
+    ],
+    "synopsis": "",
+    "preview_images": [
+      {
+        "src": "",
+        "alt": "image 1"
+      },
+      {
+        "src": "",
+        "alt": "image 2"
+      },
+      {
+        "src": "",
+        "alt": "image 3"
+      },
+      {
+        "src": "",
+        "alt": "image 4"
+      },
+      {
+        "src": "",
+        "alt": "image 5"
+      },
+      {
+        "src": "",
+        "alt": "image 6"
+      }
+    ],
+    "adaptation": {
+	
+    }
+  }
+}
